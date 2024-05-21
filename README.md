@@ -1,4 +1,4 @@
-<h1>Hola! Soy Edinson 👋🏻 <span><a href="https://edinson-rivera.pages.dev/"><img align="right" src="https://img.shields.io/badge/edinson-rivera.dev-%23FF3C00.svg?style=flat&logoColor=white"></a><a href="www.linkedin.com/in/edinson-rivera-jurado"><img align="right" src="https://img.shields.io/badge/Edinson%20Rivera-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a></span></h1>
+<h1>Hola! Soy Edinson 👋🏻 <span><a href="https://edinson-rivera.pages.dev/" target="_blank"><img align="right" src="https://img.shields.io/badge/edinson-rivera.dev-%23FF3C00.svg?style=flat&logoColor=white"></a><a href="https://www.linkedin.com/in/edinson-rivera-jurado"><img align="right" src="https://img.shields.io/badge/Edinson%20Rivera-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a></span></h1>
 <h3 align="left">Desarrollador Web👨🏻‍💻 | Community Manager💻</h3>
 <p>Ingeniero de Sistemas con intereses en desarrollo web y marketing digital & Creador de Contenido. Soy de Colombia, dispuesto anuevos retos y experiencias.</p>
 
