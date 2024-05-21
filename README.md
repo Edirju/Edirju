@@ -1,8 +1,8 @@
-<h1>Hola! Soy Edinson 👋🏻 <span><a href="https://edinson-rivera.pages.dev/" target="_blank"><img align="right" src="https://img.shields.io/badge/edinson-rivera.dev-%23FF3C00.svg?style=flat&logoColor=white"></a><a href="https://www.linkedin.com/in/edinson-rivera-jurado"><img align="right" src="https://img.shields.io/badge/Edinson%20Rivera-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a></span></h1>
+<h1>Hi! I'm Edinson. 👋🏻 <span><a href="https://edinson-rivera.pages.dev/" target="_blank"><img align="right" src="https://img.shields.io/badge/👨🏻‍💻Edinson_Rivera-%23FFC134.svg?style=flat&logoColor=white"></a><a href="https://www.linkedin.com/in/edinson-rivera-jurado"><img align="right" src="https://img.shields.io/badge/Edinson%20Rivera-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a></span></h1>
 <h3 align="left">Desarrollador Web👨🏻‍💻 | Community Manager💻</h3>
 <p>Ingeniero de Sistemas con intereses en desarrollo web y marketing digital & Creador de Contenido. Soy de Colombia, dispuesto anuevos retos y experiencias.</p>
 
-<a href="https://edinson-rivera.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/edinson_rivera.dev-%23FFC134.svg?style=flat&logoColor=white"></a>
+<a href="https://edinson-rivera.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/🌐edinson-rivera.dev-%23FFC134.svg?style=flat&logoColor=white"></a>
 <a href="https://www.instagram.com/edirju/"><img src="https://img.shields.io/badge/@edinsonrivera-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
 <a href="https://twitter.com/edinson_rivera"><img src="https://img.shields.io/badge/@edinson_rivera-%232F3134.svg?style=flat&logo=X&logoColor=white"></a>
 <a href="https://www.facebook.com/edirju"><img src="https://img.shields.io/badge/edinson_rivera-%231877F2.svg?style=flat&logo=facebook&logoColor=white"></a>
